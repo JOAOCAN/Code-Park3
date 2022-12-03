@@ -1,0 +1,13 @@
+
+.nav {
+    display: flex;
+    margin: 10 10 10 10;
+    flex-direction: row-reverse;
+}
+.banner{
+    display: flex;
+    width: 100%;
+    /* ;width: 978px; */
+    /* height: 483px; */
+    padding: 140px;
+}
